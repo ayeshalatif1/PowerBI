@@ -6,4 +6,4 @@ To view these files
 
 Project 1: Sales Dashboard 
 Project Image: https://github.com/ayeshalatif1/PowerBI/blob/main/salesDashboard.PNG
-Project File: 
+Project File: https://github.com/ayeshalatif1/PowerBI/blob/main/SalesDashboard.pbix
